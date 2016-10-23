@@ -8,7 +8,7 @@
 
 **Tested on:** Windows 7 Ultimate ServicePack 1 32-bit
 
- * [ ] Lab1
+ * [x] [Lab1](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Lab1/README.md)
  
  * [ ] Lab2
  
