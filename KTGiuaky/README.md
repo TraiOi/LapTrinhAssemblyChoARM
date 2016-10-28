@@ -8,7 +8,7 @@
 
 **-Lưu ý:-**
 
-<sup>[1]</sup>: Nếu `sqrt(delta)` ra 1 số thập phân thì chỉ áp dụng đối với các số đầu vào sao cho `sqrt(delta)` nhỏ vì sai số lớn nên khi tính ra `x1` và `x2` sẽ bị sai.
+<sup>[1]</sup>: Nếu `sqrt(delta)` ra 1 số thập phân thì chỉ áp dụng đối với các số đầu vào sao cho `sqrt(delta)` càng nhỏ càng tốt vì sai số lớn nên khi tính ra `x1` và `x2` sẽ bị sai.
 
 <sup>[2]</sup>: Sử dụng hàm con
 
