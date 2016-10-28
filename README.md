@@ -17,3 +17,5 @@
  * [ ] Lab4
  
  * [ ] Lab5
+ 
+ * [x] [Kiểm tra giữa kỳ](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/KTGiuaky/README.md)
