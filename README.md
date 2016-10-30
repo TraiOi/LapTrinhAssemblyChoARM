@@ -10,7 +10,7 @@
 
  * [x] [Lab1](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Lab1/README.md)
  
- * [ ] Lab2
+ * [x] [Lab2](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Lab2/README.md)
  
  * [ ] Lab3
  
