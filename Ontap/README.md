@@ -1,21 +1,21 @@
-##On tap
+##Ôn tập
 
-Bai 1
+[Bài 1](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Ontap/Bai1.s)
 
-	Viet chuong trinh sau su dung ham con va ngan xep:
+	Viết chương trình sau sử dụng hàm con và ngăn xếp:
 	
-	* [ ] Tinh tong cac so chan tren duong cheo chinh
+	* [x] Tính tổng các số chẵn trên đường chéo chính
 
-	* [ ] Tinh tong cac so nguyen to tren duong cheo chinh
+	* [x] Tính tổng các số nguyên tố trên đường chéo chính
 	
-	* [ ] Tinh tong cac so le tren duong cheo chinh
+	* [x] Tính tổng các số lẻ trên đường chéo chính
 
-Bai 2
+[Bài 2](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Ontap/Bai2.s)
 
-	Viet chuong trinh sau su dung ham con va ngan xep
+	Viết chương trình sau sử dụng hàm con và ngăn xếp:
 
-	* [ ] Tinh gia tri trung binh tren duong cheo phu
+	* [x] Tính giá trị trung bình trên đường chéo phụ
 
-	* [ ] Tinh gia tri lon nhat, nho nhat tren duong cheo chinh
+	* [x] Tính giá trị lớn nhất, nhỏ nhất trên đường chéo chính
 
-	* [ ] Tim UCLN cua 3 gia tri tren
+	* [x] Tìm UCLN của 3 giá trị trên
