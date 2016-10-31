@@ -14,7 +14,7 @@
  
  * [x] [Lab3](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Lab3/README.md)
  
- * [ ] Lab4
+ * [ ] [Lab4](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Lab4/README.md)
  
  * [ ] Lab5
  
