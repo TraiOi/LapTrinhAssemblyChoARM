@@ -19,3 +19,5 @@
  * [ ] Lab5
  
  * [x] [Kiểm tra giữa kỳ](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/KTGiuaky/README.md)
+ 
+ * [x] [Ôn tập](https://github.com/TraiOi/LapTrinhAssemblyChoARM/blob/master/Ontap/README.md)
